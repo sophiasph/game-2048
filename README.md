@@ -36,3 +36,12 @@ This project was created to practice fundamental front-end development skills an
   - Input handling
   - Game state management
   - Score calculation
+
+## 🛠 How to run the project:
+
+1. Clone the repository:
+   git clone https://github.com/sophiasph/game-2048.git
+2. Open the folder in your code editor.
+3. Or just open the index.html file in your browser to start playing the game.
+
+## Enjoy the game!
